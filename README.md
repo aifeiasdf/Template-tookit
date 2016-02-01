@@ -83,4 +83,8 @@ Stuff:
 当然 Template tookit所支持的控制语法远不止这些，更多控制语法请参考：
   http://template-toolkit.org/docs/manual/Directives.html
 
+安装
+---------------
+sudo python setup.py install
+
 
