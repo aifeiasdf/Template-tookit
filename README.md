@@ -29,6 +29,7 @@ docstring.  For example:
 
   $ python
   >>> import template.stash
+  
   >>> help(template.stash)
 
 This prints the main documentation for the Python version of the
